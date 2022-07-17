@@ -1,0 +1,13 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "design patterns",
+  "main": "Program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
